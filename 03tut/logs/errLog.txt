@@ -1,1 +1,5 @@
 20220314	20:57:2354101f0b-b6c7-4aa8-8690-dae586b37b8b	TypeError	fsPromises.readFil is not a function
+20220316	10:49:353423c8d0-b901-4e4c-ae21-7fd5a1842ce0	Error 	 Not allowed by cors 
+20220316	19:29:06fff4aef1-b920-41a7-80a4-69c7509bb390	Error 	 ENOENT: no such file or directory, stat '/Users/yaminhossain/Desktop/nodeProject/03tut/routes/views/index.html' 
+20220316	21:25:092d4c4fe7-3dd9-4f62-8ddc-1a6ea5ad0918	SyntaxError 	 Unexpected token ' in JSON at position 6 
+20220316	21:39:1328f3a416-694e-4d82-97f6-2c8850882f4d	TypeError 	 Cannot read properties of undefined (reading 'id') 
